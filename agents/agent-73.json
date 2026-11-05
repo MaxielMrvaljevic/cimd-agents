@@ -1,0 +1,8 @@
+{
+  "client_id": "https://maxielmrvaljevic.github.io/cimd-agents/agents/agent-73.json",
+  "client_name": "Demo Agent 73",
+  "redirect_uris": ["https://maxielmrvaljevic.github.io/cimd-agents/callback"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
